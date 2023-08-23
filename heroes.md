@@ -13,7 +13,7 @@ DC Super Hero, strong man, most famous from DC
 Marvel Super Heroes, Avenger Captain, died by infinity gauntlet
 
 ## BatMan
-
+s
 DC Super Heroes, rich man with gadget
 
 

@@ -12,4 +12,4 @@ Haunted house with spirits and possessed woman
 
 ## The Nun
 
-Demon inside a nun scaring and killing people
+Demon inside a nun scaring and killing peoples
