@@ -16,4 +16,6 @@ Marvel Super Heroes, Avenger Captain, died by infinity gauntlet
 s
 DC Super Heroes, rich man with gadget
 
+## SpiderMan
 
+Marvel Super Heroes bitten by a radioactive spider
